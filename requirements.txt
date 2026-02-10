@@ -1,0 +1,10 @@
+#Download the following packages in order ot run the Jupyer notebook 
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+xgboost
+jupyter
