@@ -13,6 +13,7 @@ Special attention is given to class imbalance, model evaluation metrics, and the
 ## Dataset
 
 The dataset is sourced from Kaggle and is publicly available at: https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data.
+
 It contains roughly contains 45,000 loan applications and the target variable is `loan_status' (1 = approved, 0 = rejected).
 
 The dataset includes a mix of financial, credit, and demographic features.
