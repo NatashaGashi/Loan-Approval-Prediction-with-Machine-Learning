@@ -39,7 +39,7 @@ Model performance is evaluated using accuracy, precision, recall, F1-score, and 
 
 ## Ethical and Regulatory Note
 
-This project was completed as an academic exercise using a publicly available dataset and so some features are included for exploratory purposes only. In real-world applications, sensitive attributes are often restricted or excluded ethical practices.
+This project was completed as an academic exercise using a publicly available dataset and so some features are included for exploratory purposes only. In real-world applications, sensitive attributes are often restricted or excluded for ethical practice.
 
 ## To run this project:
 1. Clone the repository  
